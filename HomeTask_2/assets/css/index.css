@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(171, 186, 253);
+}
+.container {
+    position: relative;
+    display: flex;
+}
+.block {
+    position: absolute; 
+    width: 40px;
+    height: 40px;
+    background-color: darkmagenta;
+}
+
+.red {
+    background-color: red;
+    left: 40px;
+}
+.blue {
+    background-color: blue;
+    left: 200px;
+}
+
+.green {
+    background-color: green;
+    left: 120px;
+}
